@@ -64,7 +64,6 @@ input.button {
 	font-weight: bold;
 	line-height: 20px;	
 	color: #fff;	
-	display: block;
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
